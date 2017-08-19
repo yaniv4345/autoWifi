@@ -1,0 +1,2 @@
+# autoWifi
+Automated wifi scripts
